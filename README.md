@@ -32,7 +32,9 @@ You can easily run this code on google colab by just clicking this badge [![Open
 ## 📊 Mathematical Formulation
 
 ```math
+\[
 z_1 = w_{11}x_1 + w_{12}x_2 + b_1
+\]
 ```
 
 ## License
