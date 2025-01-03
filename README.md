@@ -13,6 +13,7 @@ Learning XOR problem with 1 hidden layer and two perceptron with sigmoid activat
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg"  title="Sci-kit Learn" alt="Sci-kit Learn" width="40" height="40"/>&nbsp;
 </div>
 
+
 - Python : Popular language for implementing Neural Network
 - Jupyter Notebook : Best tool for running python cell by cell
 - Google Colab : Best Space for running Jupyter Notebook with hosted server
