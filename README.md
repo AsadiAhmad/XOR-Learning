@@ -1,7 +1,9 @@
 # XOR-Learning
 Learning XOR problem with 1 hidden layer and two perceptron with sigmoid activation function.
 
-<img src="/Images/XOR_Learning.png" width="350px" align=center/>
+<div display=flex align=center>
+  <img src="/Images/XOR_Learning.png" width="350px"/>
+</div>
 
 ## Tech :hammer_and_wrench: Languages and Tools :
 
