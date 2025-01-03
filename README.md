@@ -31,8 +31,7 @@ You can easily run this code on google colab by just clicking this badge [![Open
 
 ## 📊 Mathematical Formulation
 
-```math
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+```mathz_1 = w_{11}x_1 + w_{12}x_2 + b_1
 ```
 
 ## License
