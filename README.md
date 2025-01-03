@@ -29,10 +29,11 @@ Learning XOR problem with 1 hidden layer and two perceptron with sigmoid activat
 
 You can easily run this code on google colab by just clicking this badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsadiAhmad/XOR-Learning/blob/main/XOR_Learning.ipynb)
 
-## 📊 Mathematical Formulation
+## Mathematical Formulation
 
 ```math
 z_1 = w_{11}x_1 + w_{12}x_2 + b_1
+
 z_2 = w_{21}x_1 + w_{22}x_2 + b_2
 ```
 
