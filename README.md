@@ -39,6 +39,15 @@ z_1 = w_{11}x_1 + w_{12}x_2 + b_1
 z_2 = w_{21}x_1 + w_{22}x_2 + b_2
 ```
 
+```math
+h_1 = \sigma(z_1) = \frac{1}{1 + e^{-z_1}}
+```
+
+```math
+h_2 = \sigma(z_2) = \frac{1}{1 + e^{-z_2}}
+```
+
+
 ## License
 
 This project is licensed under the MIT License.
