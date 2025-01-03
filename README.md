@@ -31,6 +31,8 @@ You can easily run this code on google colab by just clicking this badge [![Open
 
 ## Mathematical Formulation
 
+### Hidden Layer (2 neurons)
+
 ```math
 z_1 = w_{11}x_1 + w_{12}x_2 + b_1
 ```
@@ -47,6 +49,15 @@ h_1 = \sigma(z_1) = \frac{1}{1 + e^{-z_1}}
 h_2 = \sigma(z_2) = \frac{1}{1 + e^{-z_2}}
 ```
 
+### Output Layer (1 neuron)
+
+```math
+z_o = v_1h_1 + v_2h_2 + b_o
+```
+
+```math
+\hat{y} = \sigma(z_o) = \frac{1}{1 + e^{-z_o}}
+```
 
 ## License
 
